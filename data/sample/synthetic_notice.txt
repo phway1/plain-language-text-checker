@@ -1,0 +1,6 @@
+The Student Support Unit will commence the implementation of a new appointment procedure subsequent to the scheduled break, and participants are requested to utilize the online interface in the event that they need assistance with registration or documentation.
+
+The form was reviewed by the Student Support Unit. The API will be updated tomorrow. Staff use an application programming interface (API) to connect approved systems.
+
+You can ask a staff member for help now.
+
